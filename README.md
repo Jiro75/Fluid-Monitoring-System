@@ -65,6 +65,6 @@ This project has the potential to revolutionize fluid monitoring in hospitals, c
 - Jana Nour
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Fluid-Monitoring-System/blob/e4fb2c99507b4825e517b3dff86037bd393f3438/LICENSE) file for details
 ## 📫 Contact
 https://www.linkedin.com/in/mostafahany4705
