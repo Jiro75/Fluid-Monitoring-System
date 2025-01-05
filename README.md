@@ -37,7 +37,7 @@ This project has the potential to revolutionize fluid monitoring in hospitals, c
 ## Working Idea
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/1f14527c-f59b-4ab1-ba19-08a6c616ac85.mp4">
+  <a href="https://drive.google.com/file/d/1gQogw5oLBsvxGvlSCU5B7RJs8SmAWXEq/view?usp=sharing">
     <img src="https://github.com/user-attachments/assets/3480f0e2-ba34-4819-ae9a-3291e4331128" alt="Video Thumbnail" width="600" height="450">
   </a>
   <br> <em>Click on the photo for preview!</em>
