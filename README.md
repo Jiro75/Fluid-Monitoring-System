@@ -34,7 +34,7 @@ Can be integrated into centralized hospital monitoring systems for real-time tra
 
 This project has the potential to revolutionize fluid monitoring in hospitals, clinics, and even home care. We're proud to contribute to enhanced patient care and safety through technological innovation. <br><br>
 
-## Working Idea
+## 💡 Working Idea
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1gQogw5oLBsvxGvlSCU5B7RJs8SmAWXEq/view?usp=sharing">
@@ -47,7 +47,7 @@ This project has the potential to revolutionize fluid monitoring in hospitals, c
 
 
 
-## Contributers
+## 🦸‍♂️ Contributors
 - Anas Mohamed
 - hassan badawy
 - Ibrahim Abdelqader
@@ -64,7 +64,7 @@ This project has the potential to revolutionize fluid monitoring in hospitals, c
 - Mariam Hosni
 - Jana Nour
 
-## License
+## 🧾 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Fluid-Monitoring-System/blob/e4fb2c99507b4825e517b3dff86037bd393f3438/LICENSE) file for details
 ## 📫 Contact
 https://www.linkedin.com/in/mostafahany4705
